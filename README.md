@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Mahak Pathak
 [![An image of @mahakpathak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahakpathak)](https://holopin.io/@mahakpathak)
 <!--
 **MahakPathak/MahakPathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
