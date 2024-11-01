@@ -1,25 +1,5 @@
 ## Hi there 👋, I'm Mahak Pathak
-<h3 align="center">Hacktoberfest Badges</h3>
-<p>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="registered badge for hacktoberfest" width="180" height="200">
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" alt="Hacktoberfest Level 1 Badge" width="180" height="200">
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-coffee-robe-0-0.webp" alt="Hacktoberfest Level 2 Badge" width="180" height="200">
-  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-coffee-robe-sparkle-0.webp" alt="Hacktoberfest Level 3 Badge" width="180" height="200">
-  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-robe-sparkle-eclipse.webp" alt="Hacktoberfest Level 4 Badge" width="180" height="200">
-</p>
-<p>✨Github Stats✨</p>
-<img src="https://streak-stats.demolab.com?user=MahakPathak&theme=dark&hide_border=true">
-<!--
-**MahakPathak/MahakPathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![An image of @mahakpathak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahakpathak)](https://holopin.io/@mahakpathak)
+![image](https://github.com/user-attachments/assets/dc8e643a-c61c-4d22-a94b-a27ba20830aa)
+## 🌟🌟GitHub Stats🌟🌟
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahakPathak&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
